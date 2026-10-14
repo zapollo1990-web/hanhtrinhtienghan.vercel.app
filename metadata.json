@@ -1,0 +1,6 @@
+{
+  "name": "한국어 여정 - Hành trình tiếng Hàn",
+  "description": "Ứng dụng học tiếng Hàn tương tác: Lộ trình bản đồ thông minh, Từ vựng & Ngữ pháp, Giao tiếp AI giọng nam bản xứ, Trò chơi và Ôn tập cùng 5 bạn đồng hành.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
